@@ -27,7 +27,7 @@ html {
 h3{
     margin-top: 2rem;
     margin-bottom: 0.5rem;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: var(--very-dark);
 }
 
@@ -87,7 +87,7 @@ p {
 }
 
 .card-body-text{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: var(--dark-gray);
     margin-top: 0px;
     margin-bottom: 2rem;
