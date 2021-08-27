@@ -36,7 +36,7 @@ p {
     margin-bottom: 2rem;
     letter-spacing: 1.5px;
     color: var(--dark-gray);
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 1.2rem;
   }
 .flex{
@@ -107,4 +107,5 @@ p {
     margin-bottom: 0.5rem;
     font-size: 1.8rem;
     color: var(--very-dark);
+    font-weight: 700;
 }
