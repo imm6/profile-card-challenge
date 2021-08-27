@@ -34,9 +34,9 @@ h3{
 p {
     margin-top: 0;
     margin-bottom: 2rem;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     color: var(--dark-gray);
-    font-weight: 700;
+    font-weight: 400;
     font-size: 1.2rem;
   }
 .flex{
@@ -50,10 +50,9 @@ p {
     background-color: white;
     border-radius: 20px;
     overflow: hidden;
-    max-width: 320px;
+    max-width: 320 px;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.315) ;
-
-}
+} 
 
 .card-header{
   width: 100%;
@@ -64,7 +63,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-bottom: 1px solid rgba(153, 153, 153, 0.383);
+    border-bottom: 1px solid rgba(153, 153, 153, 0.283);
 }
 
 .card-body-image{
@@ -101,4 +100,11 @@ p {
 
 .card-footer-social{
     text-align: center;
+}
+
+.card-footer-social-text{
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.8rem;
+    color: var(--very-dark);
 }
